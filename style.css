@@ -135,7 +135,7 @@ input,button {
 }
 
 .main-item > .main__input-type-text {
-  width: 226px
+  width: 226px;
 }
 
 .main__delete-btn .main__delete-btn-img {
@@ -156,7 +156,7 @@ input,button {
 
 /* Edit Task */
 .main__items .main__input-type-text {
-  display: none
+  display: none;
 }
 
 .main__items .main__edit-mode-item .main__input-type-text {
