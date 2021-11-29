@@ -12,7 +12,7 @@ body {
   text-align: right;
 }
 
-.header img {
+.header__image {
   width: 100%;
 }
 
@@ -44,6 +44,7 @@ body {
   display: flex;
 }
 
+/* теговые селекторы (за исключением намеренного сброса дефолтных стилей) пункт 3.4 */
 ul {
   margin: 0;
   padding: 0px;
