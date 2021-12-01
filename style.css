@@ -28,6 +28,10 @@ body {
 
 }
 
+h1{
+  display: none;
+}
+
 .main {
   display: block;
   width: 500px;
